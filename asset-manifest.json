@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.22d0d40f.chunk.css",
-    "main.js": "/static/js/main.0b2137c7.chunk.js",
-    "main.js.map": "/static/js/main.0b2137c7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a2d19363.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a2d19363.js.map",
-    "static/css/2.8a94f959.chunk.css": "/static/css/2.8a94f959.chunk.css",
-    "static/js/2.ab13d82b.chunk.js": "/static/js/2.ab13d82b.chunk.js",
-    "static/js/2.ab13d82b.chunk.js.map": "/static/js/2.ab13d82b.chunk.js.map",
-    "static/js/3.b86277e9.chunk.js": "/static/js/3.b86277e9.chunk.js",
-    "static/js/3.b86277e9.chunk.js.map": "/static/js/3.b86277e9.chunk.js.map",
+    "main.js": "/static/js/main.1ae66c41.chunk.js",
+    "main.js.map": "/static/js/main.1ae66c41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.441de737.js",
+    "runtime-main.js.map": "/static/js/runtime-main.441de737.js.map",
+    "static/css/2.c718bfb7.chunk.css": "/static/css/2.c718bfb7.chunk.css",
+    "static/js/2.17fbbece.chunk.js": "/static/js/2.17fbbece.chunk.js",
+    "static/js/2.17fbbece.chunk.js.map": "/static/js/2.17fbbece.chunk.js.map",
+    "static/js/3.37e1d31e.chunk.js": "/static/js/3.37e1d31e.chunk.js",
+    "static/js/3.37e1d31e.chunk.js.map": "/static/js/3.37e1d31e.chunk.js.map",
     "718a4c6294621f27b84987b94aec4bf6.js": "/718a4c6294621f27b84987b94aec4bf6.js",
     "718a4c6294621f27b84987b94aec4bf6.js.LICENSE.txt": "/718a4c6294621f27b84987b94aec4bf6.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/2.8a94f959.chunk.css.map": "/static/css/2.8a94f959.chunk.css.map",
+    "static/css/2.c718bfb7.chunk.css.map": "/static/css/2.c718bfb7.chunk.css.map",
     "static/css/main.22d0d40f.chunk.css.map": "/static/css/main.22d0d40f.chunk.css.map",
-    "static/js/2.ab13d82b.chunk.js.LICENSE.txt": "/static/js/2.ab13d82b.chunk.js.LICENSE.txt",
+    "static/js/2.17fbbece.chunk.js.LICENSE.txt": "/static/js/2.17fbbece.chunk.js.LICENSE.txt",
     "static/media/Resume.2e24fc83.pdf": "/static/media/Resume.2e24fc83.pdf",
     "static/media/profile2.c6ded9b2.jpg": "/static/media/profile2.c6ded9b2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2d19363.js",
-    "static/css/2.8a94f959.chunk.css",
-    "static/js/2.ab13d82b.chunk.js",
+    "static/js/runtime-main.441de737.js",
+    "static/css/2.c718bfb7.chunk.css",
+    "static/js/2.17fbbece.chunk.js",
     "static/css/main.22d0d40f.chunk.css",
-    "static/js/main.0b2137c7.chunk.js"
+    "static/js/main.1ae66c41.chunk.js"
   ]
 }
