@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sreekar&#x27;s blog</title>
+    <link href="https://gitting-it-right.github.io/feed.xml" rel="self" />
+    <link href="https://gitting-it-right.github.io" />
+    <updated>2021-08-07T15:20:00-07:00</updated>
+    <author>
+        <name>Sreekar Garlapati</name>
+    </author>
+    <id>https://gitting-it-right.github.io</id>
+
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Sreekar Garlapati</name>
+        </author>
+        <link href="https://gitting-it-right.github.io/about-me.html"/>
+        <id>https://gitting-it-right.github.io/about-me.html</id>
+
+        <updated>2021-08-07T15:20:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                     Hello! I am Sreekar, a Computer Science and Machine Learning enthusiast. I graduated from University of Massachusetts Amherst where&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hello! I am Sreekar, a Computer Science and Machine Learning enthusiast.
+  </p>
+
+  <p>
+    I graduated from University of Massachusetts Amherst where I completed the Masters program in Computer Science
+  </p>
+
+  <p>
+    I completed my undergraduate studies at the Indian Institute of Technology Bombay
+  </p>
+
+  <p>
+    I have previously interned at S.R.I. International (Summer 2020), Purdue University (Summer 2018) and INRIA (Nancy) (Summer 2017)
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

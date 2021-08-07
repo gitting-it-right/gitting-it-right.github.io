@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sreekar&#x27;s blog",
+    "description": "",
+    "home_page_url": "https://gitting-it-right.github.io",
+    "feed_url": "https://gitting-it-right.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sreekar Garlapati"
+    },
+    "items": [
+        {
+            "id": "https://gitting-it-right.github.io/about-me.html",
+            "url": "https://gitting-it-right.github.io/about-me.html",
+            "title": "About Me",
+            "summary": " Hello! I am Sreekar, a Computer Science and Machine Learning enthusiast. I graduated from University of Massachusetts Amherst where&hellip;",
+            "content_html": "\n  <p>\n    Hello! I am Sreekar, a Computer Science and Machine Learning enthusiast.\n  </p>\n\n  <p>\n    I graduated from University of Massachusetts Amherst where I completed the Masters program in Computer Science\n  </p>\n\n  <p>\n    I completed my undergraduate studies at the Indian Institute of Technology Bombay\n  </p>\n\n  <p>\n    I have previously interned at S.R.I. International (Summer 2020), Purdue University (Summer 2018) and INRIA (Nancy) (Summer 2017)\n  </p>",
+            "author": {
+                "name": "Sreekar Garlapati"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-07T09:47:26-07:00",
+            "date_modified": "2021-08-07T15:20:00-07:00"
+        }
+    ]
+}
